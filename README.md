@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cam-tard
+- 👀 I’m a codelearner
+- 🌱 I’m currently learning neuroscience...
